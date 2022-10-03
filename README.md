@@ -1,7 +1,7 @@
 # parser_assignment
 Parser to parse bin file
 How to run the exe
-1. Open the application with Visual Studio and build the solution in Release configuration
+1. Open the application with Visual Studio, copy the bin image as assignment_image.bin in the project folder and build the solution in Release configuration
  parser -> xxx\parser\parser\parser\bin\Release\parser.exe File gets generated in the project directory bin folder
  
  ![image](https://user-images.githubusercontent.com/79718009/193664781-df094f80-de03-478f-8d51-987f0986b4e3.png)
